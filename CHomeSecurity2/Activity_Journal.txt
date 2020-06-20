@@ -1,0 +1,73 @@
+SWEN-250 Project Activity Journal
+Home Security "C" Project - Part 2
+
+Name: Shubham Malhotra
+
+===========  Makefile ==========================================
+Start
+Estimated Time	HH MM
+Plan:
+(Order of implementation, testing approach, estimation technique)
+
+Complete
+Actual Time	HH MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+
+===========  Level 1  ==========================================
+Start
+Estimated Time 02 : 00
+Plan: I just referred my last project submission(part 1), after that reading the project made the implementation quite easy.
+(Order of implementation, testing approach, estimation technique)
+
+Complete
+Actual Time	01 : 30
+Observations:
+I just added all the code which was supposed to be written within the functions along with the mainwhere i added the reading to be processed.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+===========  Level 2  ==========================================
+Start
+Estimated Time	01 00
+Plan:
+Just new to make few changes initially after figuring all the stuff.
+(Order of implementation, testing approach, estimation technique)
+
+Complete
+Actual Time	01 00
+Observations:
+I was able to implement the required level easily without any problems.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+===========  Level 3  ==========================================
+Start
+Estimated Time	03 00
+Plan:
+I just need to implement the trim part in this where i am just supposed to 
+copy the list till the required room number and the delete the leftover linked list.
+(Order of implementation, testing approach, estimation technique)
+
+Complete
+Actual Time	08 00
+Observations:
+
+I am still figuring out the stuff. This was easy to implement but debugging the code is difficult for me. I took various help from all the sources which includes the sse as well as from the professor. but, understanding it within the virtual environment is difficult. I tried arranging the meeting with sse for more than3 hours bt still that didnt helped. Wherread the professor told me to look into the node addresses properly as i am not freeing it properly.
+
+I tried printing the list before the trim as well as after the trim to further debug the code, but still i am not sure whats the error within this part. Because if i am following the advice by the professor, i am getting segmentation fault as well as bus segment core dumped some times.
+
+So, I had commented out the part where i had tried to debug and made the code to work as it was working earlier though i am not getting the correct output but it is running and i am able to compiled , so i just reverted back all the changes.
+
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+===========  PROJECT PART 1 SUMMARY REFLECTION  =======================
+
+This process helped me overcome some of the basic things as i am more comfortable dealing with malloc now. I do believe that working on projects within the last time of the semester isnt that good deal as i am not able to fully complete my 3rd part due to time issues and deadlines of all other classes approaching as well as the finals week.
+Apart from that, it was quite good project where we are just getting the list till my room_event_info which is being passed in keep, further creating the project to be overall the implementation of hashmap(using singly LL).
+
+
+===============================================================

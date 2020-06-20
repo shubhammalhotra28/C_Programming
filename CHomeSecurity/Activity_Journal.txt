@@ -1,0 +1,101 @@
+SWEN-250 Project Activity Journal
+Home Security "C" Project - Part 1
+
+Name: Shubham Malhotra
+
+===========  Stage 1  ==========================================
+Start 
+Estimated Time	00 30
+Plan:
+Tried going to the code which was given within the starter files and calculated the required time accordingly.
+(Order of implementation, testing approach, estimation technique)
+
+Complete
+Actual Time	01 30
+Observations:
+I wasnt able to start at this moment, so i took the help from CA for the start as he helped me out figuring out the stuff like how and what all variables are being used within the main.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+===========  Stage 2  ==========================================
+Start
+Estimated Time	02 00
+Plan:
+I tried implementing the required algo which was initially required. I tried figuring out all the required instances which needs to be created anbd called.
+(Order of implementation, testing approach, estimation technique)
+
+Complete
+Actual Time	05 00
+Observations: 
+i was initially struggling alot while copying one of the array value of char array to other while reading and parsing that but then i realised it after thinking alot, that char arrays wouldnt be allowing us to copy directly. So i need to use strcpy and then while copying whole of the instance to the buffer 0th index was the problem which i was facing as i didnt realised that its an array and was directly trying to assign the value to it. 
+Professor helped me figure out my this mistake over slack.
+Additionally, I learnt that I should not hesitate to seek any help from the professor or CA.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+===========  Stage 3  ==========================================
+Start
+Estimated Time	05 00
+Plan:
+I thought of utilising the part of my level 2 and make some changes within that while making two indexes this time 
+(Order of implementation, testing approach, estimation technique)
+
+Complete
+Actual Time	09 00 
+Observations:
+I wrote most of code within the main function last time which made me slightly confuse within my own logic itself.
+Also I added a gloabl variable within the program which helped me to go through the entire procedure and 
+adding helper functions helped me.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+===========  Stage 4  ==========================================
+Start
+Estimated Time	01 00
+Plan:
+I just need to change some of the code to check the buffer and use modulo operator and update the newest and oldest
+accordingly.
+(Order of implementation, testing approach, estimation technique)
+
+Complete
+Actual Time	00 30
+Observations:
+I was abl to complete the required result before the expected time as i was kind of sure
+what i am suposed to do within my entire logic and what all changes needs to be there.
+Initially level 3 took me alot of time where i struggled but hoping into level 4 after
+that didnt took me much time.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+===========  Stage 5  ==========================================
+Start
+Estimated Time	00 20
+Plan:
+I believe that there wasnt much modifications required within the code which i was having for my level 4.
+(Order of implementation, testing approach, estimation technique)
+
+Complete
+Actual Time	00 20
+Observations:
+After implementing all the levels, this was supposed to be the easiest and there was nothing much of changes being required.
+It took me more time to take out my commented code and comment some of the part.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+===========  PROJECT PART 1 SUMMARY REFLECTION  =======================
+
+The project was quite challenging upto 3rd level and then i found it interesting
+the way it was doing the stuff. this helped me to brush up my skills over
+strings (char arrays) and structures. I woud say that the level of
+the project is intermediate.I estimated my time after writing some of the 
+logical part on a sheet of paper. It was quite difficult to undderstand
+the project at first sight as it is not having proper explaination at each point.
+I faced most of the problem at LEVEL 3 where i need to go through the 
+entire code as i was just writing more of the stuff within my main
+till LEVEl 2 but somehow i managed and after figuring all the things, i was 
+getting wrong input because os fome logic so i tried doing a dry run over a 
+sheet of paper and this approach helped me alot. Actually it saved my time for level 4 
+level 5 part. Yes my apprximation of the time was exactly approaching what it 
+was expected while ending this project.
+
+
+================================================================

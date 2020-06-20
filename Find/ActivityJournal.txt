@@ -1,0 +1,17 @@
+SWEN-250 Activity Reflection
+
+Name:	Shubham Malhotra
+
+================================================================
+Start
+Estimated Time	00 40
+Plan: Read and understand the problem statement properly and tracing out al the things needed within a sheet of paper
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 00 
+Observations: I took alot of time in the last function implementation where we need to find the fiurst occurence of the substring within the string and then got familiar of strstr(), through which i was able to complete my program without any failure of the testcases.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

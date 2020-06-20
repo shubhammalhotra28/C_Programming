@@ -1,0 +1,32 @@
+SWEN-250 Activity Reflection
+
+Name: Shubham Malhotra
+
+================================================================
+Part 1
+Estimated Time	00 30
+Plan:
+approach - loop till end of file to make a count and add the characters till the max_chars. if the length is greater then max_chars simply increment the other variable(sum) in this case. Then return the number in the last that is i+sum in this.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 20
+Observations: getchar will be taking the value one by one and how we could use it to increment within the loop.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+Part 2
+Estimated Time	00 30
+Plan:
+complete the copy and function and call it appropriately within the main with some check condition (recieving -1 from the console ), while pressing ctrl+d
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 50
+Observations:
+i was not able to update the code and need to remove the output file and then rerun which helped me to get the correct output.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

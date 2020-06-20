@@ -1,0 +1,72 @@
+SWEN-250 Document Analysis Journal
+
+Implement these functions in the order below.
+
+Your name: Shubham Malhotra
+
+================================================================
+create_node
+Start
+Estimated Time	01 : 00
+Plan: figuring out the logic whil;e sketching on ssheet of paper
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 : 30
+Observations: learned the concept of malloc 
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+add_node_at_head
+Start
+Estimated Time	1 : 00
+Plan: i tried implementing directly on th system while having the basic scenario odf wwhat i need to do
+(Order of implementation, testing approach, etc.)
+
+Complete	
+Actual Time	1 : 30
+Observations: figured out the logic while sketching and taking the consideration of boundary conditions
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+clear_linked_list
+Start
+Estimated Time	1 : 00
+Plan: cleasr the link list and implicitly free the pointer
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	1 : 30
+Observations: how we are implicitly dealing with the pointer to free it and i faced the problem first and then realise how we could refer to the unit_test for further implementation of the code
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+add_node_after_current
+Start
+Estimated Time	1 : 30
+Plan: sketching the different connections which needs to be manipulated on the sheet and figuring the boundary conditions along with that
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	2 : 30
+Observations: i struggle in this part as i literally need to write and think wghile giving some more concentratiuon. I learned using gdb somehow in this and setting the breakpoints and checking where my code is getting crashed.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+find_word
+Start
+Estimated Time	2 : 00
+Plan: figuring the logic for the required set of data
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	4: 00
+Observations: i struggled alot in this part as there were some things which we need to keep in mindd while writing the logioc for the code
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

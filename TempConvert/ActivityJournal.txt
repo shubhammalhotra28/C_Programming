@@ -1,0 +1,30 @@
+SWEN-250 Activity Reflection
+
+Name: Shubham Malhotra
+
+================================================================
+Start Part 1
+Estimated Time 00 : 10	
+Plan:printing the values while being in the for loop for all the temperatures that is in farenheit as well as in celsius , by converting them in the appropriate form of celsius with the given formula and further incrementing the value of variable in the for loop by 20.This will continue unless the variable is equal to 300.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time  00	: 15
+Observations: wrong output because of 5/9 in the starting of the formula for the conversion which is being corrected now.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+Start Part 2
+Estimated Time 00 : 10	
+Plan:
+ modiying the approach and changing the values to float after copying the part1 directly.f
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time 00	: 05
+Observations: Problem was encountered while printing the float variables which needs to be kept in mind now. Float -> %f and int is treated as %d
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+ 
+
+================================================================

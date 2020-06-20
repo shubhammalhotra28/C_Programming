@@ -1,0 +1,34 @@
+SWEN-250 Activity Reflection
+
+Name:	Shubham Malhotra
+
+================================================================
+Implement code to pass all unit tests
+
+Estimated Time	00 40
+Plan: sketching the function calling and making the stack trace to check which function is beiong called and used.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 00
+Observations: I took more time in understanding the question, and took more time while writing the code for 
+print function as i couldnt figure what was expected from that earlier.
+Though, I had implemented the code with my best knowledge and it is passing all the test cases.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+
+================================================================
+Test correct operation from the command line
+
+Estimated Time	00 30
+Plan: write down all the boundary conditions before implementing the code.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 20
+Observations: I just fixed one test case that is test case #8 where i took the value from console first and i was not able to see the very first characyer of the string. It has been corrected now.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

@@ -1,0 +1,17 @@
+SWEN-250 Activity Reflection
+
+Name: Shubham Malhotra
+
+================================================================
+Start
+Estimated Time	6 : 00
+Plan: understanding the concept of pointers along with allocating and explicitly freeing the memory.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	15 : 00
+Observations: The last two functions took alot of time as i had repetitively written and removed the code various number of trimes as it want working as it was supposed to be, but i am able to figure out the basic knowledge which could be used and oimplemented. Though this might not be the best way to approach to the solution. This was the diff assignment till date.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

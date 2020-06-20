@@ -1,0 +1,17 @@
+SWEN-250 Activity Reflection
+
+Name: Shubham Malhotra
+
+================================================================
+Part 2 (Part 1 not required)
+Estimated Time	00 : 10
+Plan: Follow standard of c coding and test
+(Order of implementation, testing approach, etc.)
+
+Complete Followed c standards of coding and tested as well.
+Actual Time	00 : 10
+Observations: variables should be declareed in small case and we should use _ for a longer variable name.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

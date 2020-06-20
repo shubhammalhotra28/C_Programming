@@ -1,0 +1,20 @@
+SWEN-250 Activity Reflection
+
+Name:	Shubham malhotra
+
+================================================================
+Start
+Estimated Time 00 40
+Plan:
+implement read_data.c according to the desired output
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	1 30
+Observations:
+string class is not used in c and we need to include the header files to extract the content within the main file. 
+Problems - I initially used string instead of char array because it was taking cstring.h as header file but I realised that it is throwing errors and we dont have any predefined class or header file in c. The string is treated as an character array
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

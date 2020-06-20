@@ -1,0 +1,89 @@
+#include <stdio.h>
+#include <string.h>
+
+int main(int argc, char** argv){
+
+
+	char *check = argv[1];	
+
+	if(check[1]=='e'&& argv[2]!=NULL)    	{
+		// encryption
+		FILE *fptr1;
+		char *arr = argv[2];
+		fptr1 = fopen(arr,"r");
+		
+		char name[11];
+		strncpy(name,argv[2],9);
+		char *enc = "_enc.txt";
+		name[10] = '\0';
+		printf("name = %s\n",name);
+		char *filename = strcat(name,enc);
+		//printf("filename %s\n",filename);
+
+		FILE* fptr2 = fopen(filename,"w");
+
+
+	}
+	
+	
+	
+	/*if(check[1] == 'e' && argv[2]!=NULL)
+	{
+		// encryption
+		FILE *fp;
+		fp = fopen(argv[2],"a");
+		FILE *fpo;
+		char arr[] = argv[2];
+		printf("arr value %s",arr);
+		fpo = fopen(arr+"_enc.txt","w");
+
+		char c;
+		c = fgetc(fp);
+		int i = 0;
+		while(c!=EOF)
+		{
+			c += 100;
+			fputc(c,fpo);
+			printf("hello %d",i);
+			i++;
+			c = fgetc(fp);
+		}
+		printf("executed");
+		fclose(fpo);
+		fclose(fp);
+
+
+	}
+	else if (check[1]=='d' && argv[2]!=NULL) 
+	{
+	
+		// decryption
+		printf("decryption\n");
+
+		char c;
+		FILE* fp = fopen(argv[2],"a");
+		FILE *fpo = fopen(argv[2]+"_dec.txt","w");
+		c = fgetc(fp);
+		while(c!=EOF)
+		{
+			c -= 100;
+			fputc(c,fpo);
+			c = fgetc(fp);	
+		}
+		fclose(fp);
+		fclose(fpo);
+	
+	}
+
+	else
+	{
+		printf("Usage:\n");
+		printf("filesec -e|-d");
+		printf(argv[2]);
+		printf("\n");
+
+	}
+	*/
+
+	return 0;
+}	
